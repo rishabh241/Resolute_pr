@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116821454760",
+    "project_id": "resolute-pr",
+    "storage_bucket": "resolute-pr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116821454760:android:c2eb6c95273ecc1716379d",
+        "android_client_info": {
+          "package_name": "com.example.resolute_pr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116821454760-47v11g1qhe66cai7svn3ghi72febfgqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6CP283qkC_n2Z21QvVc1J1PHkcCPu5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116821454760-47v11g1qhe66cai7svn3ghi72febfgqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
